@@ -17,6 +17,6 @@ para o antes e o depois ficarem alinhados no slider.
 
 ## Status
 
-- **Longform 1 — Study English (principal, intro de 31 s):** `l1-after.mp4` pronto; `hero-hook.mp4` = 0:00–0:06 sem áudio. Falta `l1-before-60s.mp4` (o bruto).
+- **Longform 1 — Study English (principal, intro de 31 s):** `l1-after.mp4` pronto; `hero-hook.mp4` = 0:22 até o fim, sem áudio. Falta `l1-before-60s.mp4` (o bruto).
 - **Longform 2 — Ethan Carter (intro, 62 s):** `l2-after.mp4` pronto. O slider usa o próprio `l2-after.mp4` como "depois". Falta `l2-before-60s.mp4` (o bruto).
 - **Longform 3:** vazio.
